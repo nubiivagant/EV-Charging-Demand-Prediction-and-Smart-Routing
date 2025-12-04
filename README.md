@@ -41,10 +41,10 @@ This integrates infrastructure planning + operational routing.
 | Frontend | Streamlit, Lottie |
 | Machine Learning | Scikit-Learn, Pandas, NumPy |
 | Clustering | K-Means |
-| Routing | OSRM / OpenRouteService / Google Directions API |
-| Mapping | Folium / Leaflet |
+| Routing | MapMyIndia API |
+| Mapping | Folium |
 | Programming | Python |
-| Deployment | Streamlit Cloud / Local |
+| Deployment | Streamlit Cloud |
 
 ---
 
