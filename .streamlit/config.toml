@@ -1,0 +1,14 @@
+[ui]
+hideSidebarNav = true
+
+[theme]
+# This is a modern "rose" dark theme
+primaryColor="#f63366"
+backgroundColor="#0a0a0f"
+secondaryBackgroundColor="#262730"
+textColor="#FAFAFA"
+font="sans serif"
+
+[sidebar]
+# Makes the sidebar stand out
+backgroundColor = "#1a1a24"

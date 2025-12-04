@@ -1,0 +1,12 @@
+streamlit
+requests
+polyline
+geopy
+folium
+streamlit-folium
+pandas
+joblib
+scikit-learn  
+silhouette_score
+seaborn
+streamlit-lottie
